@@ -1,0 +1,17 @@
+.text-success{
+    color:green;
+}
+
+.whatsapp-icon{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;    
+    margin-right: auto;
+    width: 50%;
+  }
+
